@@ -1,0 +1,15 @@
+/home/lalas/Devs/ohene/bin/Debug/net7.0/ohene
+/home/lalas/Devs/ohene/bin/Debug/net7.0/ohene.deps.json
+/home/lalas/Devs/ohene/bin/Debug/net7.0/ohene.runtimeconfig.json
+/home/lalas/Devs/ohene/bin/Debug/net7.0/ohene.dll
+/home/lalas/Devs/ohene/bin/Debug/net7.0/ohene.pdb
+/home/lalas/Devs/ohene/obj/Debug/net7.0/ohene.csproj.AssemblyReference.cache
+/home/lalas/Devs/ohene/obj/Debug/net7.0/ohene.GeneratedMSBuildEditorConfig.editorconfig
+/home/lalas/Devs/ohene/obj/Debug/net7.0/ohene.AssemblyInfoInputs.cache
+/home/lalas/Devs/ohene/obj/Debug/net7.0/ohene.AssemblyInfo.cs
+/home/lalas/Devs/ohene/obj/Debug/net7.0/ohene.csproj.CoreCompileInputs.cache
+/home/lalas/Devs/ohene/obj/Debug/net7.0/ohene.dll
+/home/lalas/Devs/ohene/obj/Debug/net7.0/refint/ohene.dll
+/home/lalas/Devs/ohene/obj/Debug/net7.0/ohene.pdb
+/home/lalas/Devs/ohene/obj/Debug/net7.0/ohene.genruntimeconfig.cache
+/home/lalas/Devs/ohene/obj/Debug/net7.0/ref/ohene.dll
